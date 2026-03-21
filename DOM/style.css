@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    background-color: chartreuse;
+}
+
+body{
+    background-color: plum;
+    color: #fff;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    /* border: 1px solid #000; */
+    margin: 5px;
+    text-align: center;
+    background-color: aquamarine;
+    color: #000;
+}
