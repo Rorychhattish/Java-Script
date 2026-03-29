@@ -16,7 +16,5 @@ function checkNumber(num) {
         return "zero";
     }
 }
-console.log(checkNumber(-3)); // negative
-console.log(checkNumber(0)); // zero
-console.log(checkNumber(2)); // positive
+
 module.exports = checkNumber;
