@@ -8,4 +8,5 @@ function factorial(n) {
     }
     return result;
 }
+
 module.exports = factorial;
