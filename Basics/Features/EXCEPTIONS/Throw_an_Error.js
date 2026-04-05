@@ -3,9 +3,8 @@
 // If you throw an error properly the tests will catch the error and you will pass the stage!
 
 
-
 function throwError() {
-    throw new Error("Something went wrong!");
+    throw new Error("Something went wrong!!!");
 }
 
 module.exports = throwError;
