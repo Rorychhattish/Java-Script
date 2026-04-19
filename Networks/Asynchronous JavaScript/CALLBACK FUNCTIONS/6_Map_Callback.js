@@ -15,4 +15,5 @@ function map(array, callback) {
     }
     // 4. Pura process sakiye-pachi naya array return garne
     return mappedArray;
+}
 module.exports = map;
