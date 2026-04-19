@@ -23,5 +23,4 @@ function forEach(arr, callback) {
         callback(arr[i], i);
     }
 }
-
 module.exports = forEach;

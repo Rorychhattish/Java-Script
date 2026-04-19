@@ -22,5 +22,4 @@ class Dialog {
     
     }
 }
-
 module.exports = Dialog;

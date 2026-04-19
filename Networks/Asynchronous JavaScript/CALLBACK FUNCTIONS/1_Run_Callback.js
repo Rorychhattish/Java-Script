@@ -12,5 +12,4 @@ function runCallback(callbackFunction) {
         callbackFunction();
     }, 1000);
 }
-
 module.exports = runCallback;

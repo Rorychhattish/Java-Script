@@ -13,6 +13,7 @@
 
 
 
+
 class Dialog {
     constructor() {
         // Sabaivanda pahila callbacks store garna array banaune
